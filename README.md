@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ctere1&count_private=true&theme=github_dark)
 
 <!--
 **Ctere1/Ctere1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
