@@ -1,6 +1,5 @@
-### Hi there👋, I'm Cemil 
+## Hi there👋, I'm Cemil 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ctere1&count_private=true&theme=github_dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctere1&layout=compact&theme=github_dark)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
