@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi there👋, I'm Cemil 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ctere1&count_private=true&theme=github_dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctere1&layout=compact&theme=github_dark)
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
 <!--
 **Ctere1/Ctere1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
