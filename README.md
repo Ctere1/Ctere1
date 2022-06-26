@@ -33,9 +33,7 @@
 </div>
     
 ## ❤ Views and Followers
-<a>
-    <img src="https://komarev.com/ghpvc/?username=Ctere1">
-</a>
+<a><img src="https://komarev.com/ghpvc/?username=Ctere1"></a>
 <a href="https://github.com/Ctere1?tab=followers"><img src="https://img.shields.io/github/followers/Ctere1?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br />
