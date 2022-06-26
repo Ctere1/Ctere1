@@ -2,7 +2,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 ## 📊 My Github Stats
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Ctere1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ctere1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctere1&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
