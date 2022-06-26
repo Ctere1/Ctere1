@@ -37,6 +37,17 @@
     <img src="https://komarev.com/ghpvc/?username=Ctere1">
 </a>
 <a href="https://github.com/Ctere1?tab=followers"><img src="https://img.shields.io/github/followers/Ctere1?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br />
+<br/>  
+  
+<p align="center">
+  Made with :heart: &nbsp;using GitHub Markdown
+  <br/>
+   <br/>
+  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="20%">
+</p>  
+  
 <!--
 **Ctere1/Ctere1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
