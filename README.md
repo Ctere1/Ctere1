@@ -1,13 +1,11 @@
-## Hi there👋, I'm Cemil 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-## 📊 My Github Stats
+### 🗃️ Github Stats
 <div align="center">
   <a href="https://github.com/Ctere1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ctere1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctere1&layout=compact&langs_count=7&theme=github_dark"/>-->
 </div>
 
-## 🚀 Languages and Tools:
+### 🚀 Languages and Tools:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,7 +24,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-## 📬 Contact Me
+### 📬 Contact Me
  
 <div> 
   <!--<a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
@@ -35,7 +33,7 @@
   <a href="https://www.linkedin.com/in/cemil-tan-a337b512b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
     
-## ❤ Views and Followers
+### ❤ Views and Followers
 <a><img src="https://komarev.com/ghpvc/?username=Ctere1"></a>
 <a href="https://github.com/Ctere1?tab=followers"><img src="https://img.shields.io/github/followers/Ctere1?label=Followers&style=social" alt="GitHub Badge"></a>
 
@@ -43,7 +41,7 @@
 <br/>  
   
 <p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown
+  Made with :heart: using GitHub Markdown
   <br/>
    <br/>
   <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="20%">
